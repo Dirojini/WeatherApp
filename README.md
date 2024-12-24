@@ -2,7 +2,7 @@
 # Weather App
 this is an weather app used skills were html,css,js and also Api 
 ##Demo screenshort
-![weatherapp image]()
+![weatherapp image](https://github.com/Dirojini/WeatherApp/blob/0135593a92d7246a32d9ae0a428a1d953e46b88f/Screenshot%202024-12-24%20102903.png)
 A dynamic and responsive Weather App created using HTML, CSS, and JavaScript. This app provides real-time weather information based on user input and location data.
 
 ## Features
